@@ -2,7 +2,7 @@
 
 ## Write a Java program to print the sum, multiply, subtract, divide and remainder of two numbers
 
-```
+```java
 import java.util.Scanner;
 public class arithmetic {
     public static void main(String[] args)
@@ -23,7 +23,7 @@ public class arithmetic {
 ### Output:
 
 ## Write a Java program to compare two numbers
-```
+```java
 import java.util.Scanner;
 public class compare
 {
@@ -51,7 +51,7 @@ public class compare
 ### Output: 
  
 ##  Write a Java program to convert a string to an integer
-```
+```java
 import java.util.Scanner;
 public class string_int
 {
@@ -68,7 +68,7 @@ public class string_int
 ### Output:
 
 ## Java Program to find area of rhombus
-```
+```java
 import java.util.Scanner;
 public class rhombus
 {
@@ -83,7 +83,7 @@ public class rhombus
 }
 ```
 ## Write a Java program to find the number of days in a month
-```
+```java
 import java.util.Scanner;
 public class days_month
 {
@@ -138,7 +138,7 @@ public class days_month
 }
 ```
 ## Write a Java program to print the even numbers from 1 to 20 
-```
+```java
 public class even
 {
     public static void main(String[] args)
@@ -156,7 +156,7 @@ public class even
 ### Output: 
 
 ## Write a Java program to create a simple calculator
-```
+```java
 import java.util.Scanner;
 public class calculator
 {
@@ -200,7 +200,7 @@ public class calculator
 ### Output:
 
 ## Write a Java program to print multiplication table of given number
-```
+```java
 import java.util.Scanner;
 public class table
 {
