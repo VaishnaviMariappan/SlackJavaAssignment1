@@ -2,6 +2,7 @@
 
 ## Write a Java program to print the sum, multiply, subtract, divide and remainder of two numbers
 
+```
 import java.util.Scanner;
 public class arithmetic {
     public static void main(String[] args)
@@ -18,11 +19,11 @@ public class arithmetic {
         System.out.println("Addition : "+add+"\nSubtraction : "+sub+"\nMultiplication : "+mul+"\nDivision : "+div+"\nReminder : "+rem);
     }
 }
-
+```
 ### Output:
 
 ## Write a Java program to compare two numbers
-
+```
 import java.util.Scanner;
 public class compare
 {
@@ -46,12 +47,11 @@ public class compare
         }
     }
 }
-
+```
 ### Output: 
  
 ##  Write a Java program to convert a string to an integer
-
-
+```
 import java.util.Scanner;
 public class string_int
 {
@@ -64,11 +64,11 @@ public class string_int
         System.out.println("The number is: "+num);
     }
 }
-
+```
 ### Output:
 
 ## Java Program to find area of rhombus
-
+```
 import java.util.Scanner;
 public class rhombus
 {
@@ -81,9 +81,9 @@ public class rhombus
         System.out.println("Area of rhombus = "+Area);
     }
 }
-
+```
 ## Write a Java program to find the number of days in a month
-
+```
 import java.util.Scanner;
 public class days_month
 {
@@ -136,9 +136,9 @@ public class days_month
         }
     }
 }
-
+```
 ## Write a Java program to print the even numbers from 1 to 20 
-
+```
 public class even
 {
     public static void main(String[] args)
@@ -152,11 +152,11 @@ public class even
         }
     }
 }
-
+```
 ### Output: 
 
 ## Write a Java program to create a simple calculator
-
+```
 import java.util.Scanner;
 public class calculator
 {
@@ -196,11 +196,11 @@ public class calculator
         }
     }
 }
-
+```
 ### Output:
 
 ## Write a Java program to print multiplication table of given number
-
+```
 import java.util.Scanner;
 public class table
 {
@@ -215,5 +215,5 @@ public class table
         }
     }
 }
-
+```
 ### Output: 
