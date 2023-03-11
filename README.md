@@ -1,6 +1,6 @@
 # SlackJavaAssignment1
 
-## Write a Java program to print the sum, multiply, subtract, divide and remainder of two numbers
+## 1. Write a Java program to print the sum, multiply, subtract, divide and remainder of two numbers
 
 ```java
 import java.util.Scanner;
@@ -24,7 +24,7 @@ public class arithmetic {
 
 ![image](https://user-images.githubusercontent.com/94169913/224468073-c4f6d494-11e6-4a2f-ba1d-1b5b154b2faf.png)
 
-## Write a Java program to compare two numbers
+## 2. Write a Java program to compare two numbers
 ```java
 import java.util.Scanner;
 public class compare
@@ -54,7 +54,7 @@ public class compare
 
  ![image](https://user-images.githubusercontent.com/94169913/224468089-aeddc6fc-b554-4751-aa43-1430d1e927cc.png)
 
-##  Write a Java program to convert a string to an integer
+## 3. Write a Java program to convert a string to an integer
 ```java
 import java.util.Scanner;
 public class string_int
@@ -72,7 +72,7 @@ public class string_int
 ### Output:
 ![image](https://user-images.githubusercontent.com/94169913/224468493-a0a20ead-a85e-4a7f-a4dc-eab675a32b4b.png)
 
-## Java Program to find area of rhombus
+## 4. Java Program to find area of rhombus
 ```java
 import java.util.Scanner;
 public class rhombus
@@ -91,7 +91,7 @@ public class rhombus
 
 ![image](https://user-images.githubusercontent.com/94169913/224468222-fcc69839-4cd4-4abc-8a77-2dfeaf5e7317.png)
 
-## Write a Java program to find the number of days in a month
+## 5. Write a Java program to find the number of days in a month
 ```java
 import java.util.Scanner;
 public class days_month
@@ -150,7 +150,7 @@ public class days_month
 
 ![image](https://user-images.githubusercontent.com/94169913/224468239-08b49605-6038-496f-8d7c-a244b8ecf71b.png)
 
-## Write a Java program to print the even numbers from 1 to 20 
+## 6. Write a Java program to print the even numbers from 1 to 20 
 ```java
 public class even
 {
@@ -169,7 +169,7 @@ public class even
 ### Output: 
 ![image](https://user-images.githubusercontent.com/94169913/224468101-0ade109b-51ac-4809-8bd2-b8fb0d359649.png)
 
-## Write a Java program to create a simple calculator
+## 7. Write a Java program to create a simple calculator
 ```java
 import java.util.Scanner;
 public class calculator
@@ -215,7 +215,7 @@ public class calculator
 
 ![image](https://user-images.githubusercontent.com/94169913/224468188-16887330-41bf-4ce2-8d65-ce973cd32d6b.png)
 
-## Write a Java program to print multiplication table of given number
+## 8. Write a Java program to print multiplication table of given number
 ```java
 import java.util.Scanner;
 public class table
