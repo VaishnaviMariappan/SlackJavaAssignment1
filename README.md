@@ -22,6 +22,8 @@ public class arithmetic {
 ```
 ### Output:
 
+![image](https://user-images.githubusercontent.com/94169913/224468073-c4f6d494-11e6-4a2f-ba1d-1b5b154b2faf.png)
+
 ## Write a Java program to compare two numbers
 ```java
 import java.util.Scanner;
@@ -49,7 +51,9 @@ public class compare
 }
 ```
 ### Output: 
- 
+
+ ![image](https://user-images.githubusercontent.com/94169913/224468089-aeddc6fc-b554-4751-aa43-1430d1e927cc.png)
+
 ##  Write a Java program to convert a string to an integer
 ```java
 import java.util.Scanner;
@@ -82,6 +86,10 @@ public class rhombus
     }
 }
 ```
+### Output:
+
+![image](https://user-images.githubusercontent.com/94169913/224468222-fcc69839-4cd4-4abc-8a77-2dfeaf5e7317.png)
+
 ## Write a Java program to find the number of days in a month
 ```java
 import java.util.Scanner;
@@ -137,6 +145,10 @@ public class days_month
     }
 }
 ```
+### Output: 
+
+![image](https://user-images.githubusercontent.com/94169913/224468239-08b49605-6038-496f-8d7c-a244b8ecf71b.png)
+
 ## Write a Java program to print the even numbers from 1 to 20 
 ```java
 public class even
@@ -154,6 +166,7 @@ public class even
 }
 ```
 ### Output: 
+![image](https://user-images.githubusercontent.com/94169913/224468101-0ade109b-51ac-4809-8bd2-b8fb0d359649.png)
 
 ## Write a Java program to create a simple calculator
 ```java
@@ -199,7 +212,9 @@ public class calculator
 ```
 ### Output:
 
-## Write a Java program to print multiplication table of given number
+![image](https://user-images.githubusercontent.com/94169913/224468188-16887330-41bf-4ce2-8d65-ce973cd32d6b.png)
+
+## Write a Java program to print multiplication table of given number
 ```java
 import java.util.Scanner;
 public class table
@@ -217,3 +232,5 @@ public class table
 }
 ```
 ### Output: 
+
+![image](https://user-images.githubusercontent.com/94169913/224468172-05e724d0-6b75-4667-8913-d3fda090aa1f.png)
