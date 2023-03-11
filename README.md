@@ -70,6 +70,7 @@ public class string_int
 }
 ```
 ### Output:
+![image](https://user-images.githubusercontent.com/94169913/224468493-a0a20ead-a85e-4a7f-a4dc-eab675a32b4b.png)
 
 ## Java Program to find area of rhombus
 ```java
