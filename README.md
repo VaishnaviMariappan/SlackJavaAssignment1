@@ -69,6 +69,7 @@ public class string_int
 }
 ```
 ### Output:
+![image](https://user-images.githubusercontent.com/94169913/224472851-65f6665d-e7f7-4aa1-a36a-589d45982b19.png)
 
 ## 4. Java Program to find area of rhombus
 ```java
@@ -85,6 +86,10 @@ public class rhombus
     }
 }
 ```
+### Output:
+
+![image](https://user-images.githubusercontent.com/94169913/224472910-80548603-21b5-4395-9908-e0debc329424.png)
+
 ## 5. Write a Java program to find the number of days in a month
 ```java
 import java.util.Scanner;
@@ -140,6 +145,10 @@ public class days_month
     }
 }
 ```
+### Output:
+
+![image](https://user-images.githubusercontent.com/94169913/224472928-7bbd29b4-1c88-45fd-94ee-5c8d52f98e2a.png)
+
 ## 6. Write a Java program to print the even numbers from 1 to 20 
 ```java
 public class even
@@ -157,6 +166,8 @@ public class even
 }
 ```
 ### Output: 
+
+![image](https://user-images.githubusercontent.com/94169913/224472935-eaeb8889-b9c5-4dd6-9c9c-41659a1fe28f.png)
 
 ## 7. Write a Java program to create a simple calculator
 ```java
@@ -201,8 +212,9 @@ public class calculator
 }
 ```
 ### Output:
+![image](https://user-images.githubusercontent.com/94169913/224472952-1aa44500-f5b6-41f4-9d8f-53169796cca4.png)
 
-## 8. Write a Java program to print multiplication table of given number
+## 8. Write a Java program to print multiplication table of given number
 ```java
 import java.util.Scanner;
 public class table
@@ -220,3 +232,5 @@ public class table
 }
 ```
 ### Output: 
+
+![image](https://user-images.githubusercontent.com/94169913/224472960-d880d4f0-a8f3-498f-a280-d639eda3faed.png)
